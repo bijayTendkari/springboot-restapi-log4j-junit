@@ -515,3 +515,4 @@ Identify and stop the process that's listening on port 8080 or configure this ap
 2024-06-24 12:43:31.651  INFO 1992 --- [http-nio-8084-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-06-24 12:43:31.652  INFO 1992 --- [http-nio-8084-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
 2024-06-24 12:43:31.656  INFO 1992 --- [http-nio-8084-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2024-06-24 12:48:13.164  WARN 1992 --- [http-nio-8084-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' not supported]
